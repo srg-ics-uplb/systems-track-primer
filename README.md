@@ -4,6 +4,8 @@ This resource is for incoming MSCS/MIT students at the UPLB Institute of Compute
 
 In general the goal of Systems is to understand how software and hardware interact and how to design efficient, robust, and secure systems.
 
+The essay by James Mickens, [*The Night Watch*](https://www.usenix.org/system/files/1311_05-08_mickens.pdf), talks about what Systems people do compared to other 'computer' people.
+
 ## Textbooks  
 
 The following textbooks cover the major topics in Systems.
