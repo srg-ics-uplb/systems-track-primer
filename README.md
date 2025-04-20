@@ -15,5 +15,5 @@ The following textbooks cover the major topics in Systems.
 * Computer Architecture: A Quantitative Approach (*John L. Hennesy and David A. Patterson*)
 * Data Communications and Networking (*Behrouz A. Forouzan*)
 * Distributed Systems (*Maarten Van Steen and Andrew S. Tanenbaum*)
-* Computer Security: Principles and Practive (*William Stallings and Lawrie Brown*) 
+* Computer Security: Principles and Practice (*William Stallings and Lawrie Brown*) 
 * (Optional) The C Programming Language (*Brian W. Kernighan and Dennis M. Ritchie*)
