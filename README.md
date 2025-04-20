@@ -4,8 +4,8 @@ This resource is for incoming MSCS/MIT students at the UPLB Institute of Compute
 
 ## (Text)books  
 
-* Operating Systems: Three Easy Pieces (Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau) 
-* Computer Systems: A programmers Perspective (Randal E. Bryant and David R. O'Hallaron)
-* Computer Archticture: A Quantitative Approach (John L. Hennesy and David A. Patterson)
+* Operating Systems: Three Easy Pieces (*Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau*) 
+* Computer Systems: A programmers Perspective (*Randal E. Bryant and David R. O'Hallaron*)
+* Computer Archticture: A Quantitative Approach (*John L. Hennesy and David A. Patterson*)
 *  
 
