@@ -2,8 +2,9 @@
 
 This resource is for incoming MSCS/MIT students at the Institute of Computer Science who would like to specialize in Systems. Systems typically include: Operating Systems, Computer Architecture, Distributed Systems, Networks, Security, Compilers, and Virtual Machines.
 
-## Textbooks  
+## (Text)books  
 
-* Operating Systems:: Three Easy Pieces
+* Operating Systems: Three Easy Pieces
 * Computer Systems: A programmers Perspective
+* Computer Archticture: A Quantitative Approach
 
