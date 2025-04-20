@@ -15,5 +15,6 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * Computer Architecture: A Quantitative Approach (*John L. Hennesy and David A. Patterson*)
 * Data Communications and Networking (*Behrouz A. Forouzan*)
 * Distributed Systems (*Maarten Van Steen and Andrew S. Tanenbaum*)
+* The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling (*Raj Jain*)
 * Computer Security: Principles and Practice (*William Stallings and Lawrie Brown*) 
 * (Optional) The C Programming Language (*Brian W. Kernighan and Dennis M. Ritchie*)
