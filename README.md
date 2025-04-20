@@ -8,7 +8,7 @@ The essay by James Mickens, [*The Night Watch*](https://www.usenix.org/system/fi
 
 ## Textbooks  
 
-The following textbooks cover the major topics in Systems.
+The following textbooks cover the major topics in Systems. Textbooks are foundational resources. If you've understood the contents of these textbooks, reading advanced technical materials like conference papers and journal papers will be easier.
 
 * Operating Systems: Three Easy Pieces (*Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau*) 
 * Computer Systems: A programmers Perspective (*Randal E. Bryant and David R. O'Hallaron*)
