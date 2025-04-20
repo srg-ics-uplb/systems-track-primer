@@ -2,8 +2,6 @@
 
 **Goal**: This resource is for incoming MSCS/MIT ICS students who want to build foundational knowledge and practical skills in operating systems, architecture, networking, security, and cloud.
 
-
-
 **Schedule**: 3x per week • 2 hours per session • 6 hours/week
 
 ---
