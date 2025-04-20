@@ -16,13 +16,13 @@
 **Goals**: Understand processes, threads, and CPU scheduling
 
 - **S1:** Processes & Threads  
-  📖 [OSTEP Ch. 1–3](http://pages.cs.wisc.edu/~remzi/OSTEP/) — *Read + notes*
+  📖 [xxx]() — *Read + notes*
 
 - **S2:** CPU Scheduling  
-  📖 [OSTEP Ch. 4–6](http://pages.cs.wisc.edu/~remzi/OSTEP/) — *Do practice questions*
+  📖 [xxx]() — *Do practice questions*
 
 - **S3:** Context Switching  
-  🎥 [CS162 Lectures](https://cs162.org) — *Watch and summarize*
+  🎥 [xxx](https://cs162.org) — *Watch and summarize*
 
 ---
 
@@ -30,13 +30,13 @@
 **Goals**: Learn paging, segmentation, TLBs
 
 - **S1:** Address Translation  
-  📖 [OSTEP Ch. 13–15](http://pages.cs.wisc.edu/~remzi/OSTEP/) — *Draw memory diagrams*
+  📖 [xxx]() — *Draw memory diagrams*
 
 - **S2:** Virtual Memory & Paging  
-  🎥 [GATE VM Playlist](https://www.youtube.com/playlist?list=PLbRMhDVUMngeDCYkFq64R1JcW1przK0tB) — *Watch key videos*
+  🎥 [xxx]() — *Watch key videos*
 
 - **S3:** TLB & Page Replacement  
-  📖 [OSTEP Ch. 16–18](http://pages.cs.wisc.edu/~remzi/OSTEP/) — *Implement LRU/FIFO*
+  📖 [xxx]() — *Implement LRU/FIFO*
 
 ---
 
@@ -44,13 +44,13 @@
 **Goals**: Learn CPU structure and pipelining
 
 - **S1:** CPU + ISA  
-  🎥 [CS61C Lectures](https://cs61c.org/) — *Intro to ISA*
+  🎥 [xxx]() — *Intro to ISA*
 
 - **S2:** Pipelining & Hazards  
-  📖 Patterson & Hennessy Ch. 4 — *Read & note*
+  📖 [xxx]() — *Read & note*
 
 - **S3:** RISC-V Practice  
-  🛠️ [Venus Simulator](https://venus.cs61c.org/) — *Practice with instructions*
+  🛠️ [xxx]() — *Practice with instructions*
 
 ---
 
@@ -58,13 +58,13 @@
 **Goals**: Understand the Internet stack, DNS, and routing
 
 - **S1:** OSI Model & DNS  
-  📖 [Top-Down Ch. 1–2](https://gaia.cs.umass.edu/kurose_ross/index.php) — *Diagram layers*
+  📖 [xxx]() — *Diagram layers*
 
 - **S2:** TCP/IP Protocols  
-  🧪 [Wireshark Labs](https://gaia.cs.umass.edu/wireshark-labs/) — *Analyze packets*
+  🧪 [xxx]() — *Analyze packets*
 
 - **S3:** DNS & Routing  
-  🎥 [CS144 Lectures](https://cs144.github.io/) — *Use `traceroute`, `nslookup`*
+  🎥 [xxx]() — *Use `traceroute`, `nslookup`*
 
 ---
 
@@ -72,13 +72,13 @@
 **Goals**: Explore threats, buffer overflows, access control
 
 - **S1:** Threat Models + Crypto  
-  🎥 [Stanford CS155](https://web.stanford.edu/class/cs155/) + [Crypto I](https://www.coursera.org/learn/crypto) — *Sketch threat models*
+  🎥 [xxx]() + [Crypto I](https://www.coursera.org/learn/crypto) — *Sketch threat models*
 
 - **S2:** Buffer Overflows  
-  🛠️ [Protostar](https://exploit.education/protostar/) — *Try stack0*
+  🛠️ [xxx]() — *Try stack0*
 
 - **S3:** Access Control & Attacks  
-  🎥 [LiveOverflow YouTube](https://www.youtube.com/c/LiveOverflow) — *Watch real-world examples*
+  🎥 [xxx]() — *Watch real-world examples*
 
 ---
 
@@ -86,13 +86,13 @@
 **Goals**: Understand CAP, Docker, cloud architecture
 
 - **S1:** CAP Theorem  
-  🎥 [MIT 6.824](https://pdos.csail.mit.edu/6.824/) — *Watch Lecture 1*
+  🎥 [xxx]() — *Watch Lecture 1*
 
 - **S2:** Containers & VMs  
-  📄 [Docker Docs](https://docs.docker.com/get-started/) — *Run Hello World*
+  📄 [xxx]() — *Run Hello World*
 
 - **S3:** Cloud Services  
-  🎥 [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) — *Deploy on free tier*
+  🎥 [xxx]() — *Deploy on free tier*
 
 ---
 
@@ -100,13 +100,13 @@
 **Goals**: Learn system calls, processes, and basic shell
 
 - **S1:** Fork & Exec  
-  📖 [TLPI Ch. 4](https://man7.org/tlpi/) — *Write a fork example*
+  📖 [xxx]() — *Write a fork example*
 
 - **S2:** File I/O  
-  📖 TLPI Ch. 5 + [CSAPP Ch. 10](http://csapp.cs.cmu.edu/) — *Practice file ops*
+  📖 [xxx]() — *Practice file ops*
 
 - **S3:** Shell Building  
-  🛠️ [nand2shell](https://github.com/nand2tetris/nand2shell) — *Build a basic shell*
+  🛠️ [xxx]() — *Build a basic shell*
 
 ---
 
@@ -114,13 +114,13 @@
 **Goals**: Understand threads, synchronization, deadlocks
 
 - **S1:** Race Conditions & Threads  
-  📖 [OSTEP Ch. 26–28](http://pages.cs.wisc.edu/~remzi/OSTEP/) — *Run multithreaded code*
+  📖 [xxx]() — *Run multithreaded code*
 
 - **S2:** Locks, Mutexes, Semaphores  
-  📖 [OSTEP Ch. 29–30](http://pages.cs.wisc.edu/~remzi/OSTEP/) + [CS162 Videos](https://cs162.org) — *Write locking code*
+  📖 [xxx]() — *Write locking code*
 
 - **S3:** Deadlocks  
-  📖 [OSTEP Ch. 31](http://pages.cs.wisc.edu/~remzi/OSTEP/) — *Identify and avoid deadlocks*
+  📖 [xxx]() — *Identify and avoid deadlocks*
 
 ---
 
