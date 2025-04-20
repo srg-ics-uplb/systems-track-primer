@@ -2,7 +2,9 @@
 
 This resource is for incoming MSCS/MIT students at the UPLB Institute of Computer Science who would like to specialize in Systems. Systems typically include: Operating Systems, Computer Architecture, Distributed Systems, Networks, Security, Compilers, and Virtual Machines.
 
-## (Text)books  
+## Textbooks  
+
+The following textbooks cover the major topics in Systems:
 
 * Operating Systems: Three Easy Pieces (*Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau*) 
 * Computer Systems: A programmers Perspective (*Randal E. Bryant and David R. O'Hallaron*)
