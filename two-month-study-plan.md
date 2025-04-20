@@ -72,7 +72,7 @@
 **Goals**: Explore threats, buffer overflows, access control
 
 - **S1:** Threat Models + Crypto  
-  🎥 [xxx]() + [Crypto I](https://www.coursera.org/learn/crypto) — *Sketch threat models*
+  🎥 [xxx]() — *Sketch threat models*
 
 - **S2:** Buffer Overflows  
   🛠️ [xxx]() — *Try stack0*
