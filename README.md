@@ -1,10 +1,11 @@
 # Systems Track Primer
 
-This resource is for incoming MSCS/MIT students at the Institute of Computer Science who would like to specialize in Systems. Systems typically include: Operating Systems, Computer Architecture, Distributed Systems, Networks, Security, Compilers, and Virtual Machines.
+This resource is for incoming MSCS/MIT students at the UPLB Institute of Computer Science who would like to specialize in Systems. Systems typically include: Operating Systems, Computer Architecture, Distributed Systems, Networks, Security, Compilers, and Virtual Machines.
 
 ## (Text)books  
 
-* Operating Systems: Three Easy Pieces
-* Computer Systems: A programmers Perspective
-* Computer Archticture: A Quantitative Approach
+* Operating Systems: Three Easy Pieces ( 
+* Computer Systems: A programmers Perspective (Randal E. Bryant and David R. O'Hallaron)
+* Computer Archticture: A Quantitative Approach (John L. Hennesy and David A. Patterson)
+*  
 
