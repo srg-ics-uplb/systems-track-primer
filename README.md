@@ -10,9 +10,9 @@ The essay by James Mickens, [*The Night Watch*](https://www.usenix.org/system/fi
 
 The following textbooks cover the major topics in Systems. Textbooks are foundational resources. If you've understood (or even mastered) the contents of these textbooks, reading advanced and specialized technical materials, like conference papers and journal papers, will be easier.
 
-* Operating Systems: Three Easy Pieces (*Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau*) 
-* Computer Systems: A programmers Perspective (*Randal E. Bryant and David R. O'Hallaron*)
+* Computer Systems: A Programmers Perspective (*Randal E. Bryant and David R. O'Hallaron*)
 * Computer Architecture: A Quantitative Approach (*John L. Hennesy and David A. Patterson*)
+* Operating Systems: Three Easy Pieces (*Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau*) 
 * Data Communications and Networking (*Behrouz A. Forouzan*)
 * Distributed Systems (*Maarten Van Steen and Andrew S. Tanenbaum*)
 * The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling (*Raj Jain*)
