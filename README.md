@@ -1,6 +1,8 @@
 # 🧠 Systems Track Primer: A 2-Month Systems Study Plan 
 
-**Goal**: Build strong foundational knowledge and practical skills in operating systems, architecture, networking, security, and cloud.
+**Goal**: This resource is for incoming MSCS/MIT ICS students who wants build strong foundational knowledge and practical skills in operating systems, architecture, networking, security, and cloud.
+
+
 
 **Schedule**: 3x per week • 2 hours per session • 6 hours/week
 
