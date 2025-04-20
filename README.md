@@ -4,7 +4,7 @@ This resource is for incoming MSCS/MIT students at the UPLB Institute of Compute
 
 ## Textbooks  
 
-The following textbooks cover the major topics in Systems. Some schools use these in their classes.
+The following textbooks cover the major topics in Systems. Some schools use these in their undergrad classes.
 
 * Operating Systems: Three Easy Pieces (*Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau*) 
 * Computer Systems: A programmers Perspective (*Randal E. Bryant and David R. O'Hallaron*)
