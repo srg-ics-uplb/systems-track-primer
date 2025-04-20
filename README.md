@@ -4,6 +4,6 @@ This resource is for incoming MSCS/MIT students at the Institute of Computer Sci
 
 ## Textbooks  
 
-+ Operating Systems:: Three Easy Pieces
-+
+* Operating Systems:: Three Easy Pieces
+
 
