@@ -8,4 +8,4 @@ This resource is for incoming MSCS/MIT students at the UPLB Institute of Compute
 * Computer Systems: A programmers Perspective (*Randal E. Bryant and David R. O'Hallaron*)
 * Computer Architecture: A Quantitative Approach (*John L. Hennesy and David A. Patterson*)
 * Distributed Systems (*Maarten Van Steen and Andrew S. Tanenbaum*) 
-
+* The C Programming Language (*Brian W. Kernighan and Dennis M. Ritchie*)
