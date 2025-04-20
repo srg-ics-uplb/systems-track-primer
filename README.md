@@ -1,4 +1,4 @@
-# 🧠 2-Month Systems Study Plan (Plan B)
+# 🧠 Systems Track Primer: A 2-Month Systems Study Plan 
 
 **Goal**: Build strong foundational knowledge and practical skills in operating systems, architecture, networking, security, and cloud.
 
