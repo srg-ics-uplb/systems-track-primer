@@ -18,3 +18,34 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling (*Raj Jain*)
 * Computer Security: Principles and Practice (*William Stallings and Lawrie Brown*) 
 * (Optional) The C Programming Language (*Brian W. Kernighan and Dennis M. Ritchie*)
+
+## Conferences and Workshops
+
+* SOSP – Symposium on Operating Systems Principles 
+* OSDI – Operating Systems Design and Implementation 
+* EuroSys – European Conference on Computer Systems
+* APSys – Asia-Pacific Workshop on Systems 
+* HotOS – Workshop on Hot Topics in Operating Systems 
+* ISCA – International Symposium on Computer Architecture
+* MICRO – IEEE/ACM International Symposium on Microarchitecture
+* HPCA – IEEE International Symposium on High-Performance Computer Architecture
+* ASPLOS – Architectural Support for Programming Languages and Operating Systems (interdisciplinary)
+* NSDI – USENIX Symposium on Networked Systems Design and Implementation
+* SoCC – ACM Symposium on Cloud Computing
+* HotCloud – Hot Topics in Cloud Computing (workshop)
+* USENIX Security – Strong in systems security
+* IEEE S&P (Oakland) – IEEE Symposium on Security and Privacy
+* NDSS – Network and Distributed System Security Symposium
+* CCS – ACM Conference on Computer and Communications Security
+* SecDev – IEEE Secure Development Conference (more applied)
+* SIGCOMM – ACM Special Interest Group on Data Communication
+* NSDI – Strong overlap with networks
+* CoNEXT – International Conference on Emerging Networking Experiments and Technologies
+* IMC – Internet Measurement Conference
+* HotNets – Workshop on Hot Topics in Networks
+* ATC – USENIX Annual Technical Conference (general systems, practical papers)
+* FAST – Conference on File and Storage Technologies
+
+
+
+
