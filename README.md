@@ -20,6 +20,7 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * (Optional) The C Programming Language (*Brian W. Kernighan and Dennis M. Ritchie*)
 
 ## Conferences and Workshops
+The following conferences and workshops are venues where the state-of-the-art in Systems are presented and published.  
 
 * SOSP – Symposium on Operating Systems Principles 
 * OSDI – Operating Systems Design and Implementation 
