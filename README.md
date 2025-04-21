@@ -77,6 +77,6 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 
 ### Linux and Friends 
 
-A good understanding of Linux and its ecosystem is essential in Systems, especially of its internals.
+A good understanding of the Linux kernel and its ecosystem is essential in Systems.
 * The Linux Kernel Archives (https://kernel.org)
  
