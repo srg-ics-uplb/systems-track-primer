@@ -46,6 +46,23 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * ATC – USENIX Annual Technical Conference (general systems, practical papers)
 * FAST – Conference on File and Storage Technologies
 
+## Journals
+
+* TOCS - ACM Transactions on Computer Systems
+* TC - IEEE Transactions on Computers (TC)
+* JSS - Journal of Systems and Software
+* CAL - IEEE Computer Architecture Letters
+* TACO - ACM Transactions on Architecture and Code Optimization (TACO)
+* TCC - ACM Transactions on Architecture and Code Optimization (TACO)
+* TOS - ACM Transactions on Storage 
+* JPDC - Journal of Parallel and Distributed Computing
+* TOPS - ACM Transactions on Privacy and Security
+* TDSC - IEEE Transactions on Dependable and Secure Computing 
+* TON - IEEE/ACM Transactions on Networking 
+* Computer Networks (Elsivier)
+* Performance Evaluation (Elsevier)
+* Software: Practice and Experience (SPE)
+* Concurrency and Computation: Practice and Experience (CCPE)
 
 
 
