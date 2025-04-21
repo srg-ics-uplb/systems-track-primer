@@ -73,3 +73,8 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * ACM SIGSAC: Special Interest Group on Security, Audit and Control
 * IEEE Computer Society Technical Committee on Computer Architecture (TCCA)
 
+## Tools: Linux and Friends 
+
+A good understanding of Linux and its ecosystem is essential in Systems, especially of its internals.
+* The Linux Kernel Archives (https://kernel.org)
+ 
