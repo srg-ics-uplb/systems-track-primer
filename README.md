@@ -77,9 +77,7 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 
 ### Linux
 A good understanding of the Linux kernel and its ecosystem is essential in Systems. You can install Linux (any distribution) on your 
-main machine or on a VM. Mastery of the command line interface and shell are also important.
-
-* The Linux Kernel Archives (https://kernel.org)
+main machine or on a VM. Mastery of the command line interface and shell are also important. (https://kernel.org)
 
 ### Wireshark 
 A great tool for analyzing network packets. (https://www.wireshark.org/)
