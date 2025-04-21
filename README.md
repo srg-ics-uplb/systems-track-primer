@@ -49,6 +49,10 @@ The following conferences and workshops are venues where the state-of-the-art in
 * FAST – Conference on File and Storage Technologies
 
 ## Journals
+Journals are usually used in other disciplines for archival purposes. Some conference papers 
+become journal papers after additional reviews. In Systems, papers in top conferences are more 
+prestigious/impactful than journal papers.  
+
 
 * TOCS - ACM Transactions on Computer Systems
 * TC - IEEE Transactions on Computers (TC)
