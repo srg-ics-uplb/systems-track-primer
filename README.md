@@ -64,5 +64,12 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * Software: Practice and Experience (SPE)
 * Concurrency and Computation: Practice and Experience (CCPE)
 
+## Professional Organizations and Interest Groups
 
+* USENIX Association
+* ACM SIGOPS: Special Interest Group on Operating Systems
+* ACM SIGARCH: Special Interest Group on Computer Architecture
+* ACM SIGCOMM: Special Interest Group on Data Communication
+* ACM SIGSAC: Special Interest Group on Security, Audit and Control
+* IEEE Computer Society Technical Committee on Computer Architecture (TCCA)
 
