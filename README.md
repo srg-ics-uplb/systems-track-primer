@@ -82,5 +82,5 @@ main machine or on a VM. Mastery of the command line interface and shell are als
 * The Linux Kernel Archives (https://kernel.org)
 
 ### Wireshark 
-Tool for analyzing network packets.
+A great tool for analyzing network packets. (https://www.wireshark.org/)
 
