@@ -6,6 +6,8 @@ In general, **the goal of Systems is to understand how software and hardware int
 
 The essay by James Mickens, [*The Night Watch*](https://www.usenix.org/system/files/1311_05-08_mickens.pdf), talks about what Systems people do compared to other 'computer' people.
 
+You can also try or [*CS Specialization Quiz*](https://srg-ics-uplb.github.io/cs-specialization.html)!
+
 ## Textbooks  
 
 The following textbooks cover the major topics in Systems. Textbooks are foundational resources. If you've understood (or even mastered) the contents of these textbooks, reading advanced and specialized technical materials, like conference papers and journal papers, will be easier.
