@@ -21,6 +21,8 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * Computer Security: Principles and Practice (*William Stallings and Lawrie Brown*) 
 * (Optional) The C Programming Language (*Brian W. Kernighan and Dennis M. Ritchie*)
 
+I have an old [blog post](https://blog.jachermocilla.org/2013/07/introductory-readings-in-systems.html) 
+
 ## Conferences and Workshops
 The following conferences and workshops are venues where the state-of-the-art in Systems are presented and published.  
 
