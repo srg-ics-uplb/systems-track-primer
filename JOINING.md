@@ -50,7 +50,7 @@ Your letter (1 page, maximum 2 pages) should contain the following:
 
 5. **Availability**
    - How many hours per week can you commit?
-   - Preferred timeline (e.g., starting this semester, summer, etc.)
+   - Preferred timeline (e.g., starting this semester, midyear, etc.)
 
 6. **Optional**
    - If you’ve read a research paper or watched a systems-related talk you liked, feel free to mention it!
