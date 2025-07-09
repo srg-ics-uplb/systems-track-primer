@@ -33,7 +33,7 @@ To join the group, you must submit a **Letter of Intent (LoI)**.
 Your letter (1 page, maximum 2 pages) should contain the following:
 
 1. **Introduction**
-   - Your name, degree program, year level
+   - Your name, year level
    - Your general interest in Computer Science and why systems appeals to you
 
 2. **Motivation**
