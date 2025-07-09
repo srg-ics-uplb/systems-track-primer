@@ -80,5 +80,4 @@ If you have any questions about the group or the application process, feel free 
 
 We look forward to hearing from you!
 
-**– The Systems Research Group**
 
