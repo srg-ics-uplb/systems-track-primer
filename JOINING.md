@@ -1,5 +1,7 @@
 # Join Our Research Group on Systems
 
+[](http://srg-ics-uplb.github.io)
+
 ![Scan for more info](./joining-qr.png)
 
 We are inviting **3rd/4th year BSCS** students and **MSCS/MIT/PhDCS** students to join our **Research Group on Systems**!
