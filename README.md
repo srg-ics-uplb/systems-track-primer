@@ -8,6 +8,9 @@ The essay by James Mickens, [*The Night Watch*](https://www.usenix.org/system/fi
 
 You can also try our [*CS Specialization Quiz*](https://srg-ics-uplb.github.io/cs-specialization.html)!
 
+
+My old [blog post](https://blog.jachermocilla.org/2013/07/introductory-readings-in-systems.html) on some reading materials for Systems.
+
 ## Textbooks  
 
 The following textbooks cover the major topics in Systems. Textbooks are foundational resources. If you've understood (or even mastered) the contents of these textbooks, reading advanced and specialized technical materials, like conference papers and journal papers, will be easier.
@@ -21,7 +24,6 @@ The following textbooks cover the major topics in Systems. Textbooks are foundat
 * Computer Security: Principles and Practice (*William Stallings and Lawrie Brown*) 
 * (Optional) The C Programming Language (*Brian W. Kernighan and Dennis M. Ritchie*)
 
-I have an old [blog post](https://blog.jachermocilla.org/2013/07/introductory-readings-in-systems.html) 
 
 ## Conferences and Workshops
 The following conferences and workshops are venues where the state-of-the-art in Systems are presented and published.  
