@@ -1,6 +1,6 @@
 # Join Our Research Group on Systems
 
-[](http://srg-ics-uplb.github.io)
+[http://srg-ics-uplb.github.io](http://srg-ics-uplb.github.io)
 
 ![Scan for more info](./joining-qr.png)
 
