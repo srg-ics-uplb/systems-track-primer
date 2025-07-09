@@ -1,6 +1,6 @@
 # Join Our Research Group on Systems
 
-We are inviting **incoming third-year undergraduate students** to join our **Research Group on Systems**!
+We are inviting **incoming third-year BSCS students** and **MSCS/MIT/PhD students** to join our **Research Group on Systems**!
 
 Our group focuses on a wide range of topics in **Computer Systems**, including but not limited to:
 
@@ -18,7 +18,7 @@ If you are passionate about how computers work *under the hood*, love building r
 
 ## Who Can Apply?
 
-- Incoming **3rd year Computer Science** undergraduates
+- Incoming **3rd year Computer Science** undergraduates and **graduate students**
 - Students with a strong interest in systems-related topics
 - No prior research experience required, but **curiosity and commitment** are essential
 
