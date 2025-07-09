@@ -1,5 +1,7 @@
 # Join Our Research Group on Systems
 
+[](./joinong-qr.png)
+
 We are inviting **3rd/4th year BSCS** students and **MSCS/MIT/PhDCS** students to join our **Research Group on Systems**!
 
 Our group focuses on a wide range of topics in **Computer Systems**, including but not limited to:
