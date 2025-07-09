@@ -41,7 +41,7 @@ Your letter (1 page, maximum 2 pages) should contain the following:
    - Are there specific subtopics (e.g., operating systems, networking) you are most curious about?
 
 3. **Background**
-   - Relevant coursework you’ve taken (e.g., OS, networking, architecture)
+   - Relevant coursework you’ve taken (e.g., OS, networking, architecture, programming)
    - Any prior projects, internships, or activities related to systems (optional)
 
 4. **Goals**
