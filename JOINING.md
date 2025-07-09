@@ -18,7 +18,7 @@ If you are passionate about how computers work *under the hood*, love building r
 
 ## Who Can Apply?
 
-- Incoming **3rd year Computer Science** (or related) undergraduates
+- Incoming **3rd year Computer Science** undergraduates
 - Students with a strong interest in systems-related topics
 - No prior research experience required, but **curiosity and commitment** are essential
 
@@ -59,7 +59,7 @@ Your letter (1 page, maximum 2 pages) should contain the following:
 
 - Submit as a **PDF file**
 - Filename format: `Lastname_Firstname_LetterOfIntent.pdf`
-- Email your LoI to: **systems-lab@university.edu**  
+- Email your LoI to: **jchermocilla@up.edu.ph**  
   Subject line: `LoI - Your Name`
 
 ---
@@ -76,7 +76,7 @@ Once we receive your letter, we will:
 
 ## Questions?
 
-If you have any questions about the group or the application process, feel free to reach out to us at **systems-lab@university.edu**.
+If you have any questions about the group or the application process, feel free to reach out to us at **jchermocilla@up.edu.ph**.
 
 We look forward to hearing from you!
 
