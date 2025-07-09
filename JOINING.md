@@ -30,7 +30,7 @@ If you are passionate about how computers work *under the hood*, love building r
 
 ## How to Apply
 
-To join the group, you must submit a **Letter of Intent (LoI)**, **Resume**, and **Copy of Grades**.
+To join the group, you must submit a (1)**Letter of Intent (LoI)**, (2)**Resume**, and (3)**Copy of Grades**.
 
 ### 📄 Letter of Intent Contents
 
@@ -63,7 +63,7 @@ Your letter (1 page, maximum 2 pages) should contain the following:
 
 - Submit as a **PDF file**
 - Filename format: `Lastname_Firstname_LetterOfIntent.pdf`
-- Email your LoI to: **jchermocilla@up.edu.ph**  
+- Email your LoI, Resume, Copy of Grades to: **jchermocilla@up.edu.ph**  
   Subject line: `LoI - Your Name`
 
 ---
