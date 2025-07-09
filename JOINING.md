@@ -18,7 +18,7 @@ If you are passionate about how computers work *under the hood*, love building r
 
 ## Who Can Apply?
 
-- **Incoming 3rd year BSCS** students and **incoming/current MSCS/MIT/PhDCS students**
+- **Incoming 3rd year BSCS** students and **incoming/current MSCS/MIT/PhDCS** students
 - Students with a strong interest in systems-related topics
 - No prior research experience required, but **curiosity and commitment** are essential
 
