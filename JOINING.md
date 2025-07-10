@@ -30,7 +30,7 @@ If you are passionate about how computers work *under the hood*, love building r
 
 ## How to Apply
 
-To join the group, you must submit a (1) **Letter of Intent (LoI)**, (2) **Resume**, and (3) **Copy of Grades**.
+To join the group, you must submit a (1) **Letter of Intent (LoI)** and (2) **Resume**.
 
 ### 📄 Letter of Intent Contents
 
