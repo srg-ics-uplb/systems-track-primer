@@ -9,7 +9,7 @@ The essay by James Mickens, [*The Night Watch*](https://www.usenix.org/system/fi
 You can also try our [*CS Specialization Quiz*](https://srg-ics-uplb.github.io/cs-specialization.html)!
 
 
-My old [blog post](https://blog.jachermocilla.org/2013/07/introductory-readings-in-systems.html) on some essential readings on Systems.
+JACH's old [blog post](https://blog.jachermocilla.org/2013/07/introductory-readings-in-systems.html) on some essential readings on Systems.
 
 ## Textbooks  
 
